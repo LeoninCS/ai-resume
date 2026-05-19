@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+*.log
+.env
+.env.local
+backend/tmp/
+backend/bin/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+.docker-cache/
